@@ -1,8 +1,8 @@
 # Development Checklist
 # Sprint 1
-- [ ] Create Repository
-- [ ] Create readme.md
-- [ ] Create roadmap
+- [x] Create Repository
+- [x] Create readme.md
+- [x] Create roadmap
 - [ ] Find and clone a related repository
 
 # Sprint 2
